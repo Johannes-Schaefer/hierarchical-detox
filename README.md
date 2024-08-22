@@ -1,7 +1,7 @@
 # hierarchical-detox
-This repository contains code for Hierarchical Adversarial Correction to Mitigate Identity Term Bias in Toxicity Detection
+This repository contains code for Hierarchical Adversarial Correction to Mitigate Identity Term Bias in Toxicity Detection.
 
-**This repository is still under construction**
+The code in the folder 'src' was used for the experiments whose results were presented at WASSA 24 (see reference below).
 
 # Citation # 
 
