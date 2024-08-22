@@ -1,0 +1,12 @@
+lime==0.2.0.1
+matplotlib==3.9.2
+numpy==2.1.0
+Requests==2.32.3
+scikit_learn==1.5.1
+torch==2.4.0
+torchviz==0.0.2
+tqdm==4.66.5
+transformers==4.44.1
+sentencepiece
+sacremoses
+importlib_metadata
